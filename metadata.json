@@ -1,0 +1,6 @@
+{
+  "name": "AcademicTrend",
+  "description": "Student Performance Analyzer with Liquid Glass UI, numerical interpolation engine, and interactive academic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
